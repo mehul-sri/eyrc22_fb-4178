@@ -1,0 +1,4 @@
+- create a recallibrate function
+- some nodes are detected and some are not
+- sometimes the zig-zag line is detected as a node
+- forward more on white node

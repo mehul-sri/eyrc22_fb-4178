@@ -1,0 +1,3 @@
+Task4c.Main.main
+Task4c.LineFollower.motor_action(:stop)
+Task4c.LineFollower.setPid()
